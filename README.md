@@ -1,1 +1,2 @@
-# test_react_trade
+# React Lotus Trade
+A test task for the LOTUS's vacancy.
