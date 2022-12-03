@@ -1,18 +1,25 @@
 const TEXT_CONTENT = {
+  COMMON: {
+    desription: 'Ход торгов',
+    lotName: 'Тестовые торги на аппарат ЛОТОС №1235678 (01.12.2020 07:00)',
+    date: '01.12.2020 07:00',
+  },
   TABLE: {
-    DESCRIPTION: 'Ход торгов',
-    LOT_NAME: 'Тестовые торги на аппарат ЛОТОС №1235678 (01.12.2020 07:00)',
-    TABLE_CAPTION:
+    caption:
       'Уважаемые участники торгов, во время вашего хода вы можете изменить параметры торгов, указанных в таблице:',
-    TABLE_HEADERS: {
-      MEMBERS: 'Участники',
-      PARAMETERS_AND_REQUIREMENTS: 'Параметры и требования',
-      SET_OF_MEASURES: 'Наличие комплекса мероприятий, повышающих стандарты качества изготовления',
-      PRODUCTION_TIME: 'Срок изготовления лота, дней',
-      WARRANTY_OBLIGATIONS: 'Гарантийные обязательства, месяцев',
-      PAYMENT_TERMS: 'Условия оплаты, %',
-      MANUFACTURING_COST: 'Стоимость изготовления лота, рублей (без НДС)',
-    },
+    headers: [
+      { id: 0, tag: 'name', text: 'Участники' },
+      { id: 1, tag: 'parametersAndRequirements', text: 'Параметры и требования' },
+      {
+        id: 2,
+        tag: 'setOfMeasures',
+        text: 'Наличие комплекса мероприятий, повышающих стандарты качества изготовления',
+      },
+      { id: 3, tag: 'productionTime', text: 'Срок изготовления лота, дней' },
+      { id: 4, tag: 'warrantyObligations', text: 'Гарантийные обязательства, месяцев' },
+      { id: 5, tag: 'paymentTerms', text: 'Условия оплаты, %' },
+      { id: 6, tag: 'manufacturingСost', text: 'Стоимость изготовления лота, рублей (без НДС)' },
+    ],
   },
 };
 

@@ -3,7 +3,7 @@
     {
       "id": 0,
       "name": "Компания 1",
-      "setOfMeasures": false,
+      "setOfMeasures": "Нет",
       "productionTime": 80,
       "warrantyObligations": 18,
       "paymentTerms": 30,
@@ -12,7 +12,7 @@
     {
       "id": 1,
       "name": "Компания 2",
-      "setOfMeasures": false,
+      "setOfMeasures": "Нет",
       "productionTime": 90,
       "warrantyObligations": 24,
       "paymentTerms": 100,
@@ -21,7 +21,7 @@
     {
       "id": 2,
       "name": "Компания 3",
-      "setOfMeasures": false,
+      "setOfMeasures": "Нет",
       "productionTime": 75,
       "warrantyObligations": 18,
       "paymentTerms": 50,
@@ -30,7 +30,7 @@
     {
       "id": 3,
       "name": "Компания 4",
-      "setOfMeasures": false,
+      "setOfMeasures": "Нет",
       "productionTime": 85,
       "warrantyObligations": 24,
       "paymentTerms": 80,
@@ -39,7 +39,7 @@
     {
       "id": 4,
       "name": "Компания 5",
-      "setOfMeasures": false,
+      "setOfMeasures": "Нет",
       "productionTime": 70,
       "warrantyObligations": 18,
       "paymentTerms": 40,
