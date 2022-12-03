@@ -1,0 +1,49 @@
+{
+  "members": [
+    {
+      "id": 0,
+      "name": "Компания 1",
+      "setOfMeasures": "Нет",
+      "productionTime": 80,
+      "warrantyObligations": 18,
+      "paymentTerms": 30,
+      "manufacturingСost": 3700000
+    },
+    {
+      "id": 1,
+      "name": "Компания 2",
+      "setOfMeasures": "Нет",
+      "productionTime": 90,
+      "warrantyObligations": 24,
+      "paymentTerms": 100,
+      "manufacturingСost": 3800000
+    },
+    {
+      "id": 2,
+      "name": "Компания 3",
+      "setOfMeasures": "Нет",
+      "productionTime": 75,
+      "warrantyObligations": 18,
+      "paymentTerms": 50,
+      "manufacturingСost": 3900000
+    },
+    {
+      "id": 3,
+      "name": "Компания 4",
+      "setOfMeasures": "Нет",
+      "productionTime": 85,
+      "warrantyObligations": 24,
+      "paymentTerms": 80,
+      "manufacturingСost": 4000000
+    },
+    {
+      "id": 4,
+      "name": "Компания 5",
+      "setOfMeasures": "Нет",
+      "productionTime": 70,
+      "warrantyObligations": 18,
+      "paymentTerms": 40,
+      "manufacturingСost": 4100000
+    }
+  ]
+}
